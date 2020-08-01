@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 02 Responsive Portfolio
 
 Index.html
@@ -36,3 +37,7 @@ Contact.html
     changed active/hover style to my own liking
     
 
+=======
+# updatedPortfolio01.github.io
+added links and projects to portfolio
+>>>>>>> b76cd82fa058873a2ce8fddd89623fe32b1593cc
